@@ -1,0 +1,23 @@
+$'Hello, World! 42 times.\tNew-Line?\nYes: 100% sure @42School.'
+The text contains 59 characters:
+6 upper letters
+29 lower letters
+9 punctuation marks
+8 spaces
+7 digits
+
+$'"AbC! 123\tXyZ?\n$% 9"'
+The text contains 19 characters:
+5 upper letters
+2 lower letters
+5 punctuation marks
+4 spaces
+4 digits
+
+$'Crazy MIXED-case 12345!!!\tTabs & spaces...\nNew line, same test: 42 times? Yes!!'
+The text contains 79 characters:
+9 upper letters
+38 lower letters
+13 punctuation marks
+12 spaces
+7 digits
